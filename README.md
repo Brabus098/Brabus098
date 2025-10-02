@@ -90,5 +90,3 @@
 <p align="center">
   <i>⚡️ Плох тот программист, который не превратил багу в фитчу 🍏</i>
 </p>
-
-![Snake animation](https://github.com/Brabus098/Brabus098/blob/output/github-contribution-grid-snake.svg)
