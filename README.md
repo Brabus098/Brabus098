@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Brabus098/Brabus098/blob/main/banner.jpg?raw=true" width="50%" height="700px" alt="Banner"/>
-</p>
-
 </p>
 <h1 align="center">Привет, я Vladimir 👋</h1>
 <h3 align="center">iOS-разработчик</h3>
