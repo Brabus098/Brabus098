@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Brabus098/Brabus098/blob/main/pngegg (2).png?raw=true" width="50%" height="400px" alt="Banner"/>
+  <img src="https://github.com/Brabus098/Brabus098/blob/main/pngegg (90629313dc3d3ee7f6155876067afba7.jpg?raw=true" width="50%" height="400px" alt="Banner"/>
   
 </p>
 <h1 align="center">Привет, я Vladimir 👋</h1>
