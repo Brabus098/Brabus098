@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Brabus098/Brabus098/blob/main/banner.jpg?raw=true" width="50%" height="400px" alt="Banner"/>
+  <img src="https://github.com/Brabus098/Brabus098/blob/main/banner.jpg?raw=true" width="50%" height="700px" alt="Banner"/>
 </p>
 
 </p>
