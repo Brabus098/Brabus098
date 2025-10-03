@@ -33,24 +33,24 @@
 
 **Языки программирования:**  
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=FA7343)
 
 **iOS Frameworks:**  
-![SwiftUI](https://img.shields.io/badge/SwiftUI-1E8CBE?style=for-the-badge&logo=swift&logoColor=white)
-![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white)
-![Core Data](https://img.shields.io/badge/Core_Data-1E8CBE?style=for-the-badge&logo=apple&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-1E8CBE?style=for-the-badge&logo=swift&logoColor=white&color=FA7343)
+![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white&color=FA7343)
+![Core Data](https://img.shields.io/badge/Core_Data-1E8CBE?style=for-the-badge&logo=apple&logoColor=white&color=FA7343)
 ![Combine](https://img.shields.io/badge/Combine-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
 **Tools & Platforms:**  
-![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&color=FA7343)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=FA7343)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=FA7343)
+![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white&color=FA7343)
 
 **Architecture & Methods:**  
-![MVVM](https://img.shields.io/badge/Architecture-MVVM-blue?style=for-the-badge)
-![MVP](https://img.shields.io/badge/Architecture-MVP-green?style=for-the-badge)
-![MVC](https://img.shields.io/badge/Architecture-MVC-lightgrey?style=for-the-badge)
+![MVVM](https://img.shields.io/badge/Architecture-MVVM-FA7343?style=for-the-badge)
+![MVP](https://img.shields.io/badge/Architecture-MVP-FA7343?style=for-the-badge)
+![MVC](https://img.shields.io/badge/Architecture-MVC-FA7343?style=for-the-badge)
 
 ---
 
