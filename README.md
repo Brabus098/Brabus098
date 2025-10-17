@@ -18,7 +18,7 @@
 
 ### 👨‍💻 Обо мне
 
-- 🔭 Сейчас работаю над: **[Trains]([https://github.com/Brabus098/Tracker](https://github.com/Brabus098/Trains))**
+- 🔭 Сейчас работаю над: **[Trains](https://github.com/Brabus098/Tracker](https://github.com/Brabus098/Trains)**
 - 🌱 Изучаю: **SwiftUI, Combine, архитектуру VIPER**
 - 💬 Спросите меня о: **Swift, SwiftUI, Python, iOS архитектурах**
 - 📚 Прошел: **Yandex Practicum iOS-разработчик**
