@@ -55,7 +55,8 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brabus098&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=FA7343&hide_border=true&border_radius=10&hide=stars,issues&count_private=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brabus098&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=FA7343&hide_border=true&border_radius=10&hide=stars,issues,prs,contribs&count_private=false)
+
 </div>
 
 ---
