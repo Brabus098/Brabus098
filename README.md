@@ -55,8 +55,7 @@
 
 <div align="center">
 
-<!-- GitHub Readme Stats (более стабильный) -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brabus098&show_icons=true&theme=dark&title_color=FA7343&icon_color=FA7343&text_color=FA7343&bg_color=000000&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brabus098&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=FA7343&hide_border=true&border_radius=10)
 
 </div>
 
