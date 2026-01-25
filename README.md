@@ -56,13 +56,7 @@
 <div align="center">
 
 <!-- GitHub Readme Stats (более стабильный) -->
-![Stats](https://github-readme-stats.vercel.app/api?username=Brabus098&count_private=true&show_icons=true&theme=radical)
-
-<!-- GitHub Profile Trophy -->
-![Trophy](https://github-profile-trophy.vercel.app/?username=Brabus098&theme=onedark)
-
-<!-- Activity Graph -->
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Brabus098&theme=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brabus098&show_icons=true&theme=dark&title_color=FA7343&icon_color=FA7343&text_color=FA7343&bg_color=000000&hide_border=true)
 
 </div>
 
