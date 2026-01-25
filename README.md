@@ -60,7 +60,7 @@
 | **[MovieQuiz](https://github.com/Brabus098/MovieQuiz)** | Квиз о фильмах из топ-250 IMDb | Swift, UIKit, MVC, URLSession | • Работа с IMDb API<br>• Система статистики<br>• Анимации обратной связи<br>• Локальное сохранение рекордов |
 | **[Trains](https://github.com/Brabus098/Trains)** | Приложение для поиска расписания поездов | Swift, SwiftUI, Combine, MVVM | • Интеграция с Яндекс.Расписания API<br>• Система Stories<br>• Поддержка темной темы<br>• Поиск городов и станций |
 | **[DropHub](https://github.com/Brabus098/DropHub)** | CS:GO кейс-симулятор с гарантированным дропом | Swift, UIKit, Core Animation | • Кастомный алгоритм выпадения<br>• Анимированное открытие кейсов<br>• Система инвентаря<br>• Поздравительная система |
-| **[ShoppingList](https://github.com/Brabus098/ShoppingList)** | Умный список покупок | Swift, SwiftUI, SwiftData, IVO | • Иерархические списки<br>• Локальное хранение через SwiftData<br>• Поддержка темной темы<br>• Локализация интерфейса |
+| **[ShoppingList](https://github.com/Brabus098/ShoppingList)** | Умный список покупок | Swift, SwiftUI, SwiftData, IVO | • **Командный проект**<br>• Иерархические списки<br>• Локальное хранение через SwiftData<br>• Поддержка темной темы<br>• Локализация интерфейса |
 
 ---
 
