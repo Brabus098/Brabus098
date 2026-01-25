@@ -55,8 +55,14 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Brabus098&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brabus098&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- GitHub Readme Stats (более стабильный) -->
+![Stats](https://github-readme-stats.vercel.app/api?username=Brabus098&count_private=true&show_icons=true&theme=radical)
+
+<!-- GitHub Profile Trophy -->
+![Trophy](https://github-profile-trophy.vercel.app/?username=Brabus098&theme=onedark)
+
+<!-- Activity Graph -->
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Brabus098&theme=github)
 
 </div>
 
