@@ -41,14 +41,14 @@
 ![MVVM](https://img.shields.io/badge/MVVM-FA7343?style=for-the-badge)
 
 **Сеть и данные:**  
-![URLSession](https://img.shields.io/badge/URLSession-1E8CBE?style=for-the-badge&logo=apple)
+![URLSession](https://img.shields.io/badge/URLSession-FA7343?style=for-the-badge&logo=apple&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FA7343?style=for-the-badge)
 ![JSON](https://img.shields.io/badge/JSON-FA7343?style=for-the-badge)
-![OAuth2](https://img.shields.io/badge/OAuth2-green?style=for-the-badge)
+![OAuth2](https://img.shields.io/badge/OAuth2-FA7343?style=for-the-badge)
 
 **Хранение данных:**  
 ![UserDefaults](https://img.shields.io/badge/UserDefaults-FA7343?style=for-the-badge)
-![Core Data](https://img.shields.io/badge/Core_Data-1E8CBE?style=for-the-badge&logo=apple&logoColor=white&color=FA7343)
+![Core Data](https://img.shields.io/badge/Core_Data-FA7343?style=for-the-badge&logo=apple&logoColor=white)
 ![Keychain](https://img.shields.io/badge/Keychain-FA7343?style=for-the-badge)
 
 **Многопоточность:**  
@@ -56,9 +56,9 @@
 ![Async/Await](https://img.shields.io/badge/Async/Await-FA7343?style=for-the-badge)
 
 **Инструменты и библиотеки:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&color=FA7343)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&color=FA7343)
-![Swift Package Manager](https://img.shields.io/badge/SPM-FA7343?style=for-the-badge&logo=swift)
+![Git](https://img.shields.io/badge/Git-FA7343?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-FA7343?style=for-the-badge&logo=figma&logoColor=white)
+![Swift Package Manager](https://img.shields.io/badge/SPM-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
 ---
 
