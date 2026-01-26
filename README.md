@@ -31,9 +31,6 @@
 **Язык программирования:**  
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
-**Среда разработки:**  
-![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white&color=FA7343)
-
 **UI Фреймворки:**  
 ![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white&color=FA7343)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-1E8CBE?style=for-the-badge&logo=swift&logoColor=white&color=FA7343)
@@ -42,12 +39,6 @@
 ![MVC](https://img.shields.io/badge/MVC-FA7343?style=for-the-badge)
 ![MVP](https://img.shields.io/badge/MVP-FA7343?style=for-the-badge)
 ![MVVM](https://img.shields.io/badge/MVVM-FA7343?style=for-the-badge)
-
-**Принципы разработки:**  
-![SOLID](https://img.shields.io/badge/SOLID-FA7343?style=for-the-badge)
-![KISS](https://img.shields.io/badge/KISS-FA7343?style=for-the-badge)
-![DRY](https://img.shields.io/badge/DRY-FA7343?style=for-the-badge)
-![YAGNI](https://img.shields.io/badge/YAGNI-FA7343?style=for-the-badge)
 
 **Сеть и данные:**  
 ![URLSession](https://img.shields.io/badge/URLSession-1E8CBE?style=for-the-badge&logo=apple)
