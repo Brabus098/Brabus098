@@ -18,7 +18,7 @@
 
 ### 👨‍💻 Обо мне
 
-- 🔭 Сейчас работаю над: **[Trains](https://github.com/Brabus098/Trains)**
+- 🔭 Сейчас работаю над: **[DropHub](https://github.com/Brabus098/DropHub)**
 - 🌱 Изучаю: **SwiftUI, Combine, архитектуру VIPER**
 - 💬 Спросите меня о: **Swift, SwiftUI, Python, iOS архитектурах**
 - 📚 Прошел: **Yandex Practicum iOS-разработчик**
@@ -77,8 +77,7 @@
 
 ### 📱 В разработке
 
-- **Pet Project на SwiftUI** - современное приложение с использованием SwiftUI и Combine
-- **Open Source contributions** - планирую contribute в популярные iOS библиотеки
+- **Pet Project на UKIRT** - современное приложение с использованием анимации
 - **App Store Debut** - готовлю первое приложение к публикации в App Store
 
 ---
