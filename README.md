@@ -9,7 +9,7 @@
   <a href="mailto:olsh0988@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=FA7343" alt="Email"/>
   </a>
-  <a href="https://drive.google.com/file/d/14unXlc-BM8D1M_m2w8-E7DlmxpfizLiK/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/1Xw59sRN3bESQ85WEMD4mhFiNcyQOZzY2/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white&color=FA7343" alt="Resume"/>
   </a>
 </p>
